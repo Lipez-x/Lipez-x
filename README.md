@@ -7,11 +7,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lipez-x&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-### Bem vindo ao mundo de Felipe Lima! 🌎
+### Welcome to the world of Felipe Lima! 🌎
 
-🔭 Curso Técnico em Informática 3/3
+🔭 Technical Course in Informatics 3/3
 
-🌱 Programador em desenvolvimento
+🌱 Programmer in development
 
 
 ![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
