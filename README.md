@@ -11,3 +11,5 @@
 )](https://www.instagram.com/_lipe.lr/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:lipezera1836@gmail.com)
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="47311485-1c9f-4def-a9dc-af038249a4c2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
