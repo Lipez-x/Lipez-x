@@ -8,6 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lipez-x&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+<div alignt="center">
 Contatos:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
@@ -21,6 +22,7 @@ Cursos:
 )](https://www.credly.com/badges/47311485-1c9f-4def-a9dc-af038249a4c2/public_url) <a href="https://drive.google.com/u/0/uc?id=1r_RbdrRqmyslSUx0mfUc81MbT_E9CTSL&export=download">
 <img width=22% height="110px" src="https://leadfortaleza.com.br/ead/assets/images/logo-dell.png"/>
   </a>
+  </div>
 
 
   
