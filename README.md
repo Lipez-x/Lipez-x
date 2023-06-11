@@ -22,7 +22,7 @@ Cursos:
 )](https://www.credly.com/badges/47311485-1c9f-4def-a9dc-af038249a4c2/public_url) <a href="https://drive.google.com/u/0/uc?id=1r_RbdrRqmyslSUx0mfUc81MbT_E9CTSL&export=download">
 <img width=22% height="110px" src="https://leadfortaleza.com.br/ead/assets/images/logo-dell.png"/>
   </a>
-  </div>
+</div>
 
 
   
