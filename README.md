@@ -12,12 +12,12 @@
 <div align="center">
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/_lipe.lr/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](https://www.instagram.com/_lipe.lr/) /// [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:lipezera1836@gmail.com)
 
 [![AWS](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png
 )](https://www.credly.com/badges/47311485-1c9f-4def-a9dc-af038249a4c2/public_url)
-<img width=17% height="100px" src="https://leadfortaleza.com.br/ead/assets/images/logo-dell.png"/>
+<img width=19% height="100px" src="https://leadfortaleza.com.br/ead/assets/images/logo-dell.png"/>
 
   
 </div>
