@@ -18,5 +18,5 @@
 
 [![AWS](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png
 )](https://www.credly.com/badges/47311485-1c9f-4def-a9dc-af038249a4c2/public_url)
-<img width=19% height="100px" src="https://leadfortaleza.com.br/ead/assets/images/logo-dell.png"/>
+<img width=19% height="110px" src="https://leadfortaleza.com.br/ead/assets/images/logo-dell.png"/>
   
