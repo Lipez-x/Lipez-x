@@ -31,12 +31,10 @@
 
 
 
-<h2>Courses:</h2>
+<h2>Badges:</h2>
 
 [![AWS](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png
-)](https://www.credly.com/badges/47311485-1c9f-4def-a9dc-af038249a4c2/public_url) <a href="https://drive.google.com/u/0/uc?id=1r_RbdrRqmyslSUx0mfUc81MbT_E9CTSL&export=download">
-<img width="175px" height="100px" src="https://leadfortaleza.com.br/ead/assets/images/logo-dell.png"/>
-  </a>
+)](https://www.credly.com/badges/47311485-1c9f-4def-a9dc-af038249a4c2/public_url)
 
 
   
