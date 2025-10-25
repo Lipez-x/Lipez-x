@@ -25,4 +25,6 @@
 
 <h2>Badges:</h2>
 
-[![AWS](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](https://www.credly.com/badges/47311485-1c9f-4def-a9dc-af038249a4c2/public_url)
+<a href="https://www.credly.com/badges/47311485-1c9f-4def-a9dc-af038249a4c2/public_url">
+  <img src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="120" />
+</a>
